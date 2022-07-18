@@ -1,6 +1,6 @@
 - Hi, I’m @Jpalominogo
 - I’m interested in: {Learning as quickly and as much as possible}
-- I actually have completed course of DevOPs
+- I actually have completed a course of DevOPs
 - I’m currently learning: {Css, Responsive, SASS, Flexbox, Grid, Bootstrap and JavaScript}
 
 - I’m looking to collaborate on: {Front end development}
