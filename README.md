@@ -1,12 +1,7 @@
-- Hi, I’m @Jpalominogo
-- I’m interested in: {Learning as quickly and as much as possible}
-- I actually have completed a course of DevOPs
-- I’m currently learning: {Css, Responsive, SASS, Flexbox, Grid, Bootstrap and JavaScript}
+¡Hola! Como desarrollador de Front-end con experiencia en una empresa líder en la industria, mi objetivo es crear interfaces de usuario atractivas y funcionales para aplicaciones web utilizando mis habilidades en JavaScript, HTML5, CSS y React.
 
-- I’m looking to collaborate on: {Front end development}
-- How to reach me: {Via email}
+Como parte de mi enfoque, colaboro de manera estrecha con diseñadores y desarrolladores de back-end para lograr una experiencia de usuario sólida y coherente. Además, me apoyo en herramientas de construcción como Webpack y Gulp para mejorar la eficiencia de mi flujo de trabajo y el rendimiento de las aplicaciones.
 
-<!---
-Jpalominogo/Jpalominogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mantenerme al día con las últimas tendencias y tecnologías de la industria es esencial para mi crecimiento profesional. Me encanta aprender nuevas habilidades y aplicarlas en proyectos emocionantes que involucren la creación de aplicaciones web impresionantes.
+
+Soy un profesional entusiasta y colaborativo, que disfruta trabajar en equipo. Siempre estoy buscando nuevos desafíos que me permitan seguir creciendo y expandiendo mi conocimiento, y estoy comprometido con alcanzar el éxito en cada proyecto en el que participo.
