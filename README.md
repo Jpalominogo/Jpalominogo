@@ -1,7 +1,7 @@
-¡Hola! Como desarrollador de Front-end con experiencia en una empresa líder en la industria, mi objetivo es crear interfaces de usuario atractivas y funcionales para aplicaciones web utilizando mis habilidades en JavaScript, HTML5, CSS y React.
+Hello! As a Front-end developer with experience in a leading industry company, my goal is to create attractive and functional user interfaces for web applications using my skills in JavaScript, HTML5, CSS, and React.
 
-Como parte de mi enfoque, colaboro de manera estrecha con diseñadores y desarrolladores de back-end para lograr una experiencia de usuario sólida y coherente. Además, me apoyo en herramientas de construcción como Webpack y Gulp para mejorar la eficiencia de mi flujo de trabajo y el rendimiento de las aplicaciones.
+As part of my approach, I collaborate closely with designers and back-end developers to achieve a solid and consistent user experience. Additionally, I rely on build tools such as Webpack and Gulp to improve the efficiency of my workflow and application performance.
 
-Mantenerme al día con las últimas tendencias y tecnologías de la industria es esencial para mi crecimiento profesional. Me encanta aprender nuevas habilidades y aplicarlas en proyectos emocionantes que involucren la creación de aplicaciones web impresionantes.
+Keeping up-to-date with the latest industry trends and technologies is essential for my professional growth. I love learning new skills and applying them to exciting projects that involve creating impressive web applications.
 
-Soy un profesional entusiasta y colaborativo, que disfruta trabajar en equipo. Siempre estoy buscando nuevos desafíos que me permitan seguir creciendo y expandiendo mi conocimiento, y estoy comprometido con alcanzar el éxito en cada proyecto en el que participo.
+I am an enthusiastic and collaborative professional who enjoys working in teams. I am always looking for new challenges that allow me to continue growing and expanding my knowledge, and I am committed to achieving success in every project in which I participate. 
